@@ -1,7 +1,7 @@
 # Digital-Setting-Circles
 Digital Setting Circle for Telescope
 
-UPDATE: 12/30/17, For those not interested (or skilled in programming) I'm Posting .Hex files of the full code for UNO and Nano.  You'll need to learn how to flash your UNO/Nano (many Youtube vid's to help you).
+UPDATE: 12/30/17, For those not interested (or skilled in programming) I'm Posting .Hex files of the full code for UNO and Nano.  You'll need to learn how to flash your UNO/Nano (many Youtube vid's to help you). These code use an LCD for display - no Serial or Bluetooth display output.
 
 Rev -A-  12/2/17,  Added some code for Bluetooth display of output (can use your smartphone/tablet to see Telescope/encoder position)
 
